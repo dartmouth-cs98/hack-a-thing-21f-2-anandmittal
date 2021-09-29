@@ -5,7 +5,7 @@
 
 I attempted to build an artificial neural network (ANN) to predict Combined Cycle Power Plant output based on various features. The ANN has two hidden layers that aid with developing the regression model.
 
-The first image  below details the data used, including parameters like temperature, ambient pressure, relative humidity, and exhaust vaccuum to predict energy output (PE). 
+The first image  below details the data used, including parameters like temperature, ambient pressure, relative humidity, and exhaust vaccuum to predict energy output (PE). The input columns are all columns except the last column, which is the energy output.
 
 The second image shows the training process over the course of 100 epochs, with loss decreasing with each iteration.
 
